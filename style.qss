@@ -1,0 +1,8 @@
+QLabel{
+  font-size: 20px ;
+  color:#dcdcf6;
+
+}
+.back{
+   background: QLinearGradient( x1: 0, y1: 0,x2: 0, y2: 1,stop: 0 #5279a4,stop: 1 #a3bccb );
+}
